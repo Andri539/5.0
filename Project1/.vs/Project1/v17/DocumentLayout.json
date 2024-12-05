@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F545FA6-96B6-4F33-BEA6-8EE2D3ADCF7E}|Project1\\Project1.vcxproj|C:\\Users\\apres\\OneDrive\\Desktop\\5.0\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F545FA6-96B6-4F33-BEA6-8EE2D3ADCF7E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0\\Project1\\Project1\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0\\Project1\\Project1\\FileName.cpp",
+              "RelativeToolTip": "Project1\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T16:03:51.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
